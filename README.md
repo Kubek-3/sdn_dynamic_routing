@@ -8,4 +8,4 @@
 
 ## Diagram sieci użytej w naszym projekcie
 
-![Diagram sieci](images/diagram_sieci.png)
+![Diagram sieci](diagram_sieci.png)
